@@ -4,7 +4,7 @@ zokou({ nomCom: "hacker",
     categorie: "Logo", reaction: "👨🏿‍💻" }, async (origineMessage, zk, commandeOptions) => {
     const { prefixe, arg, ms, repondre } = commandeOptions;
     if (!arg || arg == "") {
-        repondre("*__Exemple : * " + prefixe + "hacker yesser");
+        repondre("*__Exemple : * " + prefixe + "hacker Official bheron");
         return;
     }
     try {
@@ -39,7 +39,7 @@ zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest
         await zk.sendMessage(dest, { text: " *\t Traitement en cours ...*" }, { quoted: ms });
        // var idImg = Object.values(imgInfo)[3];
        
-        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t Logo by YESSER_Md v5*" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t Logo by BHERON_Md v5*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -59,7 +59,7 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
         var radio2 = "e0723d60-fc0d-421f-bf8f-a9b9b61e4be6";
         var img = await mumaker.ephoto("https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html", arg.join(' '));
         
-        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t *Logo by yesser_md *" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t *Logo by BHERON_md *" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -242,7 +242,7 @@ var lien="https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html";
          
 
 repondre("  processing ...")
-         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by 𝘆𝗲𝘀𝘀𝗲𝗿 𝗺𝗱*"})
+         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by BHERON MD*"})
          
         // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by Zokou-Md*"})
          
@@ -259,14 +259,14 @@ zokou({nomCom:"water",categorie:"Logo",reation:"💦"},async(dest,zk,commandeOpt
 var {ms,repondre,arg,prefixe}=commandeOptions;
   if(!arg||arg=="")
   {
-    repondre(`${prefixe}water 𝘆𝗲𝘀𝘀𝗲𝗿`)
+    repondre(`${prefixe}water BHERON`)
     return;
   }
   try{
     var lien ="https://en.ephoto360.com/create-water-effect-text-online-295.html";
     var img =await mumaker.ephoto(lien,arg);
     repondre(" processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:"  *Logo by 𝘆𝗲𝘀𝘀𝗲𝗿 𝗺𝗱*"})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:"  *Logo by BHERON MD*"})
   }catch(e){repondre(`🥵🥵 ${e}`)}
 
 });
@@ -281,7 +281,7 @@ zokou({ nomCom: "snow", categorie: "Logo", reaction: "❄️" }, async (dest, zk
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-beautiful-3d-snow-text-effect-online-1101.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝘆𝗲𝘀𝘀𝗲𝗿' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by BHERON MD' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -298,7 +298,7 @@ zokou({ nomCom: "transformer", categorie: "Logo", reaction: "🤖" }, async (des
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-a-transformer-text-effect-online-1035.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝘆𝗲𝘀𝘀𝗲𝗿' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by BHERON MD' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -315,7 +315,7 @@ zokou({ nomCom: "thunder", categorie: "Logo", reaction: "⚡" }, async (dest, zk
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/online-thunder-text-effect-generator-1031.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝘆𝗲𝘀𝘀𝗲𝗿' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by BHERON MD' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -332,7 +332,7 @@ zokou({ nomCom: "harrypotter", categorie: "Logo", reaction: "🧙‍♂️" }, a
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-harry-potter-text-effect-online-1025.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝘆𝗲𝘀𝘀𝗲𝗿' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by BHERON MD' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -368,7 +368,7 @@ zokou({ nomCom: "whitegold", categorie: "Logo", reaction: "💫" }, async (dest,
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/elegant-white-gold-3d-text-effect-online-free-1070.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝘆𝗲𝘀𝘀𝗲𝗿' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by BHERON MD' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -385,7 +385,7 @@ zokou({ nomCom: "lightglow", categorie: "Logo", reaction: "🌟" }, async (dest,
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-light-glow-sliced-text-effect-online-1068.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝘆𝗲𝘀𝘀𝗲𝗿' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by BHERON MD' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -438,7 +438,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
-      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *Logo by 𝘆𝗲𝘀𝘀𝗲𝗿_𝗺𝗱*"});
+      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *Logo by BHERON_MD*"});
     }catch(e){repondre(e)}
   
 })
@@ -457,7 +457,7 @@ zokou({nomCom:"gold",categorie:"Logo",reaction:"🧚🏿‍♀️"},async(dest,z
 
     var img = await mumaker.ephoto(lien,arg);
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝘆𝗲𝘀𝘀𝗲𝗿_𝗺𝗱*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by BHERON_MD*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -476,7 +476,7 @@ zokou({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOp
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝘆𝗲𝘀𝘀𝗲𝗿_𝗺𝗱*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by BHERON_MD*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -494,7 +494,7 @@ zokou({nomCom:"incandescent",categorie:"Logo",reaction:"😋"},async(dest,zk,com
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝘆𝗲𝘀𝘀𝗲𝗿_𝗺𝗱 *"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by BHERON_MD *"},{quoted:ms})
   } catch(e){repondre(e)}
 })
 
@@ -510,7 +510,7 @@ zokou({ nomCom: "gif×1", categorie: "Logo", reaction: "😋" }, async (dest, zk
     const lien = `https://api.caliph.biz.id/api/kaneki?nama=${encodeURIComponent(text)}&apikey=caliphkey`;
     const img = await mumaker.sendFile(m.chat, lien, 'logo.png', '✅ Result', m);
     repondre("Processing...");
-    await zk.sendMessage(dest, { image: { url: img }, caption: "*Logo by Hacking-Md*" }, { quoted: ms });
+    await zk.sendMessage(dest, { image: { url: img }, caption: "*Logo by BHERON-Md*" }, { quoted: ms });
   } catch (e) {
     repondre(e);
   }
