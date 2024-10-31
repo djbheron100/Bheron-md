@@ -40,23 +40,22 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/yassin994
+> https://github.com/djbheron100
 
 *YouTube channel*
->https://www.youtube.com/@Yesserboy92
+https://youtube.com/@officialbheron?si=sHMkURrGb8uL0Jka
 
 *FOR DEVELOPER T.ME*
-> https://wa.me/255621995482
-
+> https://wa.me/880 1602-072612
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G 
+>  https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/yassin994/YESSER-MD
+> https://github.com/djbheron100 /BHERON-MD
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┃▓▒ *DEV* : *yesser BOT*
+┃▓▒ *DEV* : *BHERON BOT*
 ┃ ❂━━━════➳════━━━━❂
 ⁠⁠⁠⁠╰──━━━━═════════━━━━⦿ 
   `;
@@ -64,7 +63,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ yesser MD 😎
+     ┃▓ BHERON MD 😎
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
