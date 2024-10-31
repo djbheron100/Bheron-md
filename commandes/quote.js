@@ -13,15 +13,15 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   YESSER-MD new vison 
-║   ✨made by yesser tech
+║   BHERON-MD new vison 
+║   ✨made by OFFICIAL-BHERON 
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by yesser tech`);
+Powered by OFFICIAL-BHERON`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -34,14 +34,14 @@ Powered by yesser tech`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   Yesser-md               ║
+║   BHERON-MD               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by yesser tech`);
+Powered by OFFICIAL-BHERON`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
