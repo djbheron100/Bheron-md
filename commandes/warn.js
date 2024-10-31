@@ -26,7 +26,7 @@ if(verifAdmin || superUser) {
  } else { 
 
     var rest = warnlimit - warn ;
-     repondre(`this user is warn , rest before kick : ${rest} `)
+     repondre(`this stupidy is warn , rest before kick : ${rest} `)
    }
 } else if ( arg[0] === 'reset') { await resetWarnCountByJID(auteurMsgRepondu) 
 
