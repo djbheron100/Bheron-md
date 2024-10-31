@@ -67,7 +67,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 
 ╭──━━━━══════━━━━❂
-┃ ━━⦿ *YESSER MD* ⦿━━
+┃ ━━⦿ *BHERON MD* ⦿━━
 ┃ ✯𝕄𝕠𝕕𝕖: ${mode}
 ┃ ✯𝕌𝕤𝕖𝕣 : ${s.OWNER_NAME}
 ┃ ✯𝕃𝕚𝕓𝕣𝕒𝕣𝕪 : Baileys
@@ -85,7 +85,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━══════━━┓
-┃⦿ _*YESSER TEACH*_
+┃⦿ _*OFFICIAL-BHERON*_
 ┗━━══════━━┛\n
 
 
@@ -115,11 +115,11 @@ let menuMsg = `
 
 
  ╭──━━══════━━━━┓
- ┃⦿ _*YESSER MD 𝟚𝟘𝟚𝟜*_
- ┃⦿ _*𝕖𝕟𝕛𝕠𝕪 𝕝𝕚𝕗𝕖*_ 
+ ┃⦿ _*BHERON MD 
+ ┃⦿  
  ╰──━━══════━━━┳┛
  ╭──━━══════━━━┻┓
- ┃⦿ _*𝕡𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𖣘YESSER TECH𖣘*_
+ ┃⦿ _*𝕡𝕠𝕨𝕖𝕣𝕖𝕕ᵇʸOFFICIAL BHERON*_
  ╰──━━══════━━━━┛\n
 
 
