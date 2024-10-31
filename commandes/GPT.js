@@ -4,11 +4,11 @@ const s = require('../set');
 const axios = require('axios');
 
 /* 
-Created By Official Bheron
+Created By OFFICIAL-BHERON 
 Don't claim, okey 
 */
 
-zokou({nomCom:"bheron",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
+zokou({nomCom:"BHERON MD",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
