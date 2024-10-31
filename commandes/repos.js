@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: 
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *YESSER_MD .*\n support our channel *by*, https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30
+this is* *BHERON_MD .*\n support our channel *by*, https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D
 
 ╭─────────────────────➳
 │╭────────────────────➳
@@ -31,13 +31,13 @@ this is* *YESSER_MD .*\n support our channel *by*, https://whatsapp.com/channel/
 ││ 🧧 *FORKS:* ${repoInfo.forks}
 ││ 📅 *RELEASE DATE:* ${releaseDate}
 ││🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-││ 👨‍💻 *OWNER:* *YESSER tech*
-││ 💞 *THEME:* *YESSER *
-││ 🥰 *ENJOY TO USE YESSER MD *
+││ 👨‍💻 *OWNER:* *Official Bheron*
+││ 💞 *THEME:* *BHERON*
+││ 🥰 *ENJOY TO USE BHERON MD*
 │╰────────────────────➳
 │╭──────────────────❍ 
 ││  ╭───────────────➳
-││  │ _*Made With yesser Tech*_
+││  │ _*Made With Official bheron*_
 ││  ╰───────────────➳
 │╰──────────────────❍ 
 ..........new vision🖐️🤠
