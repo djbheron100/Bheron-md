@@ -22,7 +22,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("Africa/Nairobi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ *YESSER MD* ═══\n\n";
+    let menuMsg = "  ═══ *BHERON MD* ═══\n\n";
     /*menuMsg+=`
     
     
