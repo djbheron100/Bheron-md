@@ -1,9 +1,9 @@
 {
-  "name":"YESSER-MD",
-  "description":"Best whatsapp bot developed by yesser Tech",
+  "name":"BHERON-MD",
+  "description":"Best whatsapp bot developed by me",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/8lzwqh.jpeg",
-  "repository":"https://github.com/Yassin994/YESSER-1",
+  "logo":"https://files.catbox.moe/c90ngd.jpeg",
+  "repository":"https://github.com/djbheron100/Bheron-md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"YESSER-MD",
+      "value":"BHERON-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/8lzwqh.jpeg,https://files.catbox.moe/5thusr.jpeg,https://files.catbox.moe/eou4n8.jpeg",
+      "value":"https://files.catbox.moe/c90ngd.jpeg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "yessertech"
+    "value": "djbheron💀"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255621995482"
+    "value": "8801602072612"
   },
     "WARN_COUNT":
   {
