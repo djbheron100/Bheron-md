@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D">
-    <img alt="wasi" height="400" src="https://files.catbox.moe/c90ngd.jpeg">
+    <img alt="wasi" height="400" src="https://files.catbox.moe/vk46rk.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">BHERON MD</h1>
   </a>
