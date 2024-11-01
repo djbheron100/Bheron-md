@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=red+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ZOMBIE+MD+;A+WHATSAPP+BOT;CREATED+BY+official+bhroon" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=red+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BHERON+MD+;A+WHATSAPP+BOT;CREATED+BY+OFFICIAL+BHERON" alt="Typing SVG" /></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30">
@@ -13,7 +13,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/Yassin994"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY"><img title="Author" src="https://img.shields.io/badge/CHANNEL-yellow?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/255621995482"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Yassin994"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY"><img title="Author" src="https://img.shields.io/badge/CHANNEL-yellow?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/880 1602-072612"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
