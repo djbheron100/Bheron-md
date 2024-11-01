@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=red+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ZOMBIE+MD+;A+WHATSAPP+BOT;CREATED+BY+YESSER+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=red+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ZOMBIE+MD+;A+WHATSAPP+BOT;CREATED+BY+official+bhroon" alt="Typing SVG" /></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30">
-    <img alt="wasi" height="400" src="https://files.catbox.moe/won03k.jpeg">
+    <img alt="wasi" height="400" src="https://files.catbox.moe/c90ngd.jpeg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">ZOMBIE MD</h1>
+   <h1 align="center">BHERON MD</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
