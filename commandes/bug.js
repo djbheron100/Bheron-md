@@ -85,7 +85,7 @@ let menuMsg = `
 │        *𝙱𝙷𝙴𝚁𝙾𝙽 𝙼𝙳 *
 ╰───────➻⊷⊷➻────────❍ 
 
-> ©𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙷𝙴𝚁𝙾𝙽 projects
+> ©𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙷𝙴𝚁𝙾𝙽 projects 
 
  `;
 
@@ -93,7 +93,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *yesser md*, déveloper yesser Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BHERON-MD*, déveloper OFFICIAL-BHERON" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -103,7 +103,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *yessermd*, déveloper yesserTech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BHERON-MD*, déveloper OFFICIAL-BHERON" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
