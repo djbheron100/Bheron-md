@@ -69,7 +69,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     }
     var link = "https://i.imgur.com/vXz75pe.jpeg";
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©BHERON MD" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©OFFICIAL-BHERON" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
