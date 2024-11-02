@@ -21,7 +21,7 @@ if(verifAdmin || superUser) {
    let warn = await getWarnCountByJID(auteurMsgRepondu)
    let warnlimit = s.WARN_COUNT
    
-   if( warn >= warnlimit ) { await repondre('this user reach limit of warning , so i kick him/her');
+   if( warn >= warnlimit ) { await repondre('this stupidy reach limit of warning , so i kick him/her');
                 zk.groupParticipantsUpdate(dest, [auteurMsgRepondu], "remove")
  } else { 
 
