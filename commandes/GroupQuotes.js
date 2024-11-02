@@ -19,7 +19,7 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *Official bheron*`);
+Powered by *OFFICIAL-BHERON*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -31,13 +31,13 @@ Powered by *Official bheron*`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`Bheron-MD
+          repondre(`BHERON-MD
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *Official Bheron*`);
+Powered BY *OFFICIAL-BHERON*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
