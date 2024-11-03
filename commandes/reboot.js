@@ -14,7 +14,7 @@ const{repondre,ms,dev,superUser}=com;
 
   if(!superUser)
   {
-    return repondre("This command is for owner or OFFICIAL BHERON");
+    return repondre("This command is for owner or OFFICIAL-BHERON");
   }
 
   const {exec}=require("child_process")
