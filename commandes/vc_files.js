@@ -58,7 +58,7 @@ zokou({ nomCom: 'getallmembers',
 
 
 
-zokou({ nomCom: 'channel',
+zokou({ nomCom: 'grouo2',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🐞', 
@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`) 
+                 await repondre(`https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv`) 
 
    
 
@@ -78,7 +78,7 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'yessertgc',
+zokou({ nomCom: 'group',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🤓', 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'yessertgc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To follow 😂CHEKA TU 😂 channeel * https://whatsapp.com/channel/0029VafooOgAjPXNXqBpW01X`) 
+                 await repondre(`*Tap Here To join * https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv`) 
 
    
 
@@ -101,7 +101,7 @@ zokou({ nomCom: 'yessertgc',
 zokou({ nomCom: 'update',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '⚙️', 
+    reaction: '🌚', 
     fromMe: 'true', 
 
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD is running on its latest vision_*`) 
+                 await repondre(`*_BHERON MD is running on its latest vision_*`) 
 
    
 
@@ -121,7 +121,7 @@ zokou({ nomCom: 'update',
 zokou({ nomCom: 'vision',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '🔎', 
+    reaction: '😪', 
     fromMe: 'true', 
 
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD_*`) 
+                 await repondre(`*_BHERONE MD_*`) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'yesserwagc',
+zokou({ nomCom: 'bheron',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'yesserwagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap To Join BONIPHACE Md WhatsApp Chartroom Group* https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
+                 await repondre(`*Tap To Join  my channel WhatsApp * https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30`) 
 
    
 
@@ -159,7 +159,7 @@ zokou({ nomCom: 'yesserwagc',
 )
 
 
-zokou({ nomCom: 'hack2',
+zokou({ nomCom: 'hack',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🐅', 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY YESSER MD",
-    "By yesser Tech`) 
+    "POWERED BY BHERON MD",
+    "By official bheron`) 
 
    
 
