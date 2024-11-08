@@ -2,7 +2,7 @@
   "name":"BHERON-MD",
   "description":"Best whatsapp bot developed by me",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/9it5tk.jpeg",
+  "logo":"https://files.catbox.moe/sfe41b.jpg",
   "repository":"https://github.com/djbheron100/Bheron-md",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/c90ngd.jpeg",
+      "value":"https://files.catbox.moe/sfe41b.jpg",
       "required":false
        
      },
