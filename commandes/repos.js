@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/djbheron100/Bheron-md';
-  const img = 'https://files.catbox.moe/9it5tk.jpeg';
+  const img = 'https://files.catbox.moe/sfe41b.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -21,8 +21,8 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: 
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*hellow whatsaap user
-this is* *BHERON_MD .*\n support our channel *by*, https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D
+      const gitdata = `HELLO WHATSAPP USER
+THIS IS BHERON-MD .\n SUPPORT OUR CHANNEL BY VIEW AND FOLLOW, https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D
 
 ╭─────────────────────➳
 │╭────────────────────➳
@@ -31,9 +31,9 @@ this is* *BHERON_MD .*\n support our channel *by*, https://whatsapp.com/channel/
 ││ 🧧 *FORKS:* ${repoInfo.forks}
 ││ 📅 *RELEASE DATE:* ${releaseDate}
 ││🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-││ 👨‍💻 *OWNER:* *Official Bheron*
+││ 👨‍💻 *OWNER:* *OFFICIAL-BHERON*
 ││ 💞 *THEME:* *BHERON*
-││ 🥰 *ENJOY TO USE BHERON MD*
+││ 🥰 *BHERON-MD*
 │╰────────────────────➳`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
