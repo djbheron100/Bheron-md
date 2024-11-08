@@ -4,7 +4,7 @@ zokou({ nomCom: "hacker",
     categorie: "Logo", reaction: "👨🏿‍💻" }, async (origineMessage, zk, commandeOptions) => {
     const { prefixe, arg, ms, repondre } = commandeOptions;
     if (!arg || arg == "") {
-        repondre("*__Exemple : * " + prefixe + "hacker OFFICIAL-BHERON");
+        repondre("*__Exemple :* " + prefixe + "hacker Official Bheron");
         return;
     }
     try {
@@ -14,8 +14,8 @@ zokou({ nomCom: "hacker",
        // let res = Object.values(anu)[3];
         // console.log("&€"+res);
       //  let lien = "https://e1.yotools.net" + res;
-        repondre("* processing...*");
-        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t Logo by BHERON-MD*" }, { quoted: ms });
+        repondre("* processing...");
+        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t Logo by BHERON-MD" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
