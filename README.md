@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝙱𝙷𝙴𝚁𝙾𝙽+𝙼𝙳+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙾𝙵𝙵𝙸𝙲𝙸𝙰+𝙱𝙷𝙴𝚁𝙾𝙽+☠︎︎)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://files.catbox.moe/puktjb.jpg"
+<p align="centre"><img src="https://files.catbox.moe/vi124q.jpg"
 
 
 
